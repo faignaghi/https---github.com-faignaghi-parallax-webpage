@@ -27,3 +27,13 @@ html, body {
     background-image: url(./img/bg4.jpg);
     min-height: 80%;
 }
+
+.background--image1,
+.background--image2,
+.background--image3,
+.background--image4 {
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* todo parallax effect */
+}
